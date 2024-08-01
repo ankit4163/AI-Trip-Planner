@@ -1,5 +1,5 @@
  # Link:-
-https://ai-trip-planner-amber.vercel.app/
+[AI Trip Planner](https://ai-trip-planner-amber.vercel.app/)
 
 
   
